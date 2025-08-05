@@ -76,7 +76,7 @@ In this paper, we introduce the **Ank function**, a compact and mathematically e
 
 Unlike the raw logarithmic form, which clutters expressions and interrupts the visual flow of equations, the Ank function behaves as a clean wrapper that transparently communicates "digit magnitude" without overburdening the notation. It allows digit counts to be composed into larger formulas (such as differences, limits, or transformations) without losing clarity. In this way, the Ank function is not just a mathematical shortcut — it is a notational framework designed for precision, elegance, and future generalization.
 
-One would write the Ank function in the following way:![Ank]((https://github.com/Tanyboistormpro/Archivum/blob/main/Images/Ank.png))
+One would write the Ank function in the following way:![Ank](https://github.com/Tanyboistormpro/Archivum/blob/main/Images/Ank.png)
 
 This would be read as ‘Ank of x’ which equates to the number of digits of the number x
 
