@@ -41,15 +41,7 @@ and understanding how they behave when n increases rapidly, helps build a mental
 
 The **binomial theorem** allows expansion of expressions like (a + b)<sup>n</sup> into a sum of terms involving coefficients and powers:
 
-(a + b)<sup>n</sup> \= ∑ ( ​) a<sup>n−k</sup>b<sup>k</sup>
-
-n
-
-k
-
-k=0
-
-n
+(a + b)<sup>n</sup> \= <sup>n</sup>∑<sub>k=0</sub> (<sup>n</sup>C<sub>k</sub>) a<sup>n−k</sup>b<sup>k</sup>
 
 This is especially useful when studying expressions such as (10x+1)<sup>n</sup>, where:
 
