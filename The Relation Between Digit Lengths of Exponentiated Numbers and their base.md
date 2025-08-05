@@ -196,4 +196,4 @@ The above theorem is one of the most basic uses of the Ank function and can be b
 
 Thank you for your time
 
-\-Tanmay Gupta
+\-Tanmay Gupta, a 14 year old nerd
